@@ -6,6 +6,6 @@ int main() {
 
     int value = (int)pi;  // double → int
 
-    cout << "Explicit Result: " << value << endl;
+    cout << "Explicit Result : " << value << endl;
     return 0;
 }
